@@ -1,0 +1,29 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: WFI Position, unit: '', datatype: string, description: 'Position on Roman/WFI: Centerfield (near the center of WFI) or Sensor
+#     Chip Assembly (SCA) center'}
+# - {name: Grism blue edge (nm), unit: nm, datatype: float64, description: Blue edge of the grism}
+# - {name: Grism red edge (nm), unit: nm, datatype: float64, description: Red edge of the grism}
+# delimiter: ','
+# schema: astropy-2.0
+WFI Position,Grism blue edge (nm),Grism red edge (nm)
+Centerfield,998.6230622,1919.726727
+SCA1,998.3611819,1919.479972
+SCA2,998.4005876,1918.618897
+SCA3,997.1193023,1914.483827
+SCA4,997.2274597,1916.989345
+SCA5,997.2642289,1916.167417
+SCA6,996.4385141,1913.244945
+SCA7,994.0479426,1909.745615
+SCA8,995.0905575,1911.322736
+SCA9,994.8798273,1909.971073
+SCA10,998.2819578,1918.971629
+SCA11,998.2002061,1917.804212
+SCA12,996.9955067,1913.957983
+SCA13,996.6111148,1914.77246
+SCA14,997.2084994,1915.34527
+SCA15,995.9281355,1911.202499
+SCA16,993.2696624,1906.468859
+SCA17,994.1877637,1907.806244
+SCA18,993.9528584,1906.401417
